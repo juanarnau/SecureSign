@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SecureSign — Firma y verificación de ejecutables
 
 SecureSign es una herramienta para **firmar y verificar archivos** usando Ed25519, asegurando que los ejecutables no hayan sido modificados desde que fueron firmados.
@@ -44,7 +43,7 @@ Si la firma es inválida, el archivo podría haber sido modificado.
 
 ---
 
-Buenas prácticas
+## Buenas prácticas
 
 Descarga siempre desde la sección oficial de Releases.
 Mantén tu clave privada segura y offline.
@@ -52,7 +51,7 @@ Verifica la firma antes de ejecutar cada nuevo release del .exe.
 
 ---
 
-Generación de la firma (para desarrolladores)
+## Generación de la firma (para desarrolladores)
  - Abrir SecureSign
     python SecureSign.py
  - Generar par de claves Ed25519
@@ -62,11 +61,7 @@ Luego sube el .exe, la firma y la clave pública al release para que los usuario
 
 ---
 
-Contacto
+## Contacto
 
 Juan Arnau — juan.arnau@outlook.es
 Repositorio: https://github.com/juanarnau/SecureSign
-=======
-# SecureSign
-Firmar y verificar archivos usando Ed25519
->>>>>>> 89a9b625505f7a5223e7767afe924fec122575be
