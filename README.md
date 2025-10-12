@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SecureSign — Firma y verificación de ejecutables
 
 SecureSign es una herramienta para **firmar y verificar archivos** usando Ed25519, asegurando que los ejecutables no hayan sido modificados desde que fueron firmados.
@@ -65,3 +66,7 @@ Contacto
 
 Juan Arnau — juan.arnau@outlook.es
 Repositorio: https://github.com/juanarnau/SecureSign
+=======
+# SecureSign
+Firmar y verificar archivos usando Ed25519
+>>>>>>> 89a9b625505f7a5223e7767afe924fec122575be
