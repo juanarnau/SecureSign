@@ -1,6 +1,6 @@
-# SecureSign — Firma y verificación de ejecutables
+# SecureSign — Firma y verificación de archivos
 
-SecureSign es una herramienta para **firmar y verificar archivos** usando Ed25519, asegurando que los ejecutables no hayan sido modificados desde que fueron firmados.
+SecureSign es una herramienta para **firmar y verificar archivos** usando Ed25519, asegurando que los archivos no hayan sido modificados desde que fueron firmados.
 
 Este repositorio incluye el **ejecutable compilado para Windows**, junto con la firma y la clave pública necesarias para comprobar su autenticidad.
 

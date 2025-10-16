@@ -22,7 +22,7 @@ import sys
 import threading
 import time
 import customtkinter as ctk
-from tkinter import filedialog, messagebox, PhotoImage
+from tkinter import filedialog, messagebox
 from cryptography.hazmat.primitives.asymmetric.ed25519 import Ed25519PrivateKey, Ed25519PublicKey
 from cryptography.hazmat.primitives import serialization
 
